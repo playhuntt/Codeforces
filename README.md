@@ -2,8 +2,6 @@
 
 ## Intro
 
->	Automated by [cp-tool](https://github.com/jspw/cp-tool)
-
 This is a repository to keep track of my problem solving practice.
 For now, It contains all the problems I have solved at 
 - **[Codeforces](https://codeforces.com/)** 
@@ -15,8 +13,6 @@ For now, It contains all the problems I have solved at
 	"handle" : "playhuntt",
 	"organization" : "SGSITS,Indore",
 	"rank" : "newbie",
-	"rating" : 1168,
-	"contribution" : 0,
 	"maxRank" : "pupil",
 	"maxRating" : 1233,
 	"joined" : "2020",
