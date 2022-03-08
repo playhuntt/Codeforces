@@ -2,11 +2,10 @@
 
 ## Intro
 
->	Automated by [cp-tool](https://github.com/jspw/cp-tool)
-
 This is a repository to keep track of my problem solving practice.
-For now, It contains all the problems I have solved at 
-- **[Codeforces](https://codeforces.com/)** 
+For now, It contains all the problems I have solved at
+
+- **[Codeforces](https://codeforces.com/)**
 
 ## User Details ([playhuntt](https://codeforces.com/profile/playhuntt))
 
@@ -23,7 +22,8 @@ For now, It contains all the problems I have solved at
 }
 
 ```
-## Submissions 
+
+## Submissions
 
 <table align="center" border = "0px" cellpadding ="2px" cellspacing ="2px" >
 <tr><th>#</th><th>Probelm</th><th>Catagory</th><th>Rating</th><th>Tags</th><th>Solution</th><th>Submission Time</th></tr>
